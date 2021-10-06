@@ -1,6 +1,6 @@
 # Image_Galllery
 
-## Live Preview:  [Open Link]( https://maheshsangeet.github.io/Image_Gallery/)
+## Live Preview:  [Open Link]( https://maheshsangeet.github.io/Image_Galllery/)
 
 #### click the images and view it in larger size.
 
